@@ -1,5 +1,5 @@
 
-## Waiting Time Distributions for Opioids
+## Parametric Waiting Time Distributions for Opioid Days Supply
 The intent of this analysis is to explore whether parametric (reverse) Waiting Time Distribution (WTD) methods can improve opioid pharmacoepidemiology methods by more accurately and explicitly representing actual patient-level opioid exposure, in the United States.
 
 By Nabarun Dasgupta (nab@unc.edu)
